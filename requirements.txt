@@ -3,4 +3,5 @@ google-genai
 google-generativeai
 streamlit
 duckduckgo-search
+ddgs
 python-dotenv
