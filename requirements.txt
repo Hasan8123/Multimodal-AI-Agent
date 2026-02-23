@@ -1,6 +1,6 @@
 agno>=2.2.10
 google-genai
-google-generativeai==0.8.3
-streamlit==1.40.2
+google-generativeai
+streamlit
 duckduckgo-search
 python-dotenv
